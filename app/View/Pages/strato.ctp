@@ -1,0 +1,1 @@
+<iframe width="100%" height="100%" src="http://stratoweb.cloudapp.net:86"></iframe>
